@@ -1,2 +1,2 @@
-# beginner-ROS-communication
-This is my documentation for learning ROS environment for robotic-arm control.
+# Beginner-ROS-communication
+This is my documentation for learning the ROS environment for robotic-arm control.
